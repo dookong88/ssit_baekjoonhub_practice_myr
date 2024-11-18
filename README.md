@@ -1,4 +1,4 @@
-# ssit_baekjoonhub_practice_myr
+# WELCOME TO DOOKONG'S WORLD:)
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 <a href="https://github.com/devxb/gitanimals">
 <img
