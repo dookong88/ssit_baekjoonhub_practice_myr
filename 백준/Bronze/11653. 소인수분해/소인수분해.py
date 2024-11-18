@@ -4,4 +4,4 @@ while(N!=1):
         if(N%i==0):
             print(i)
             N=int(N/i)
-            break
+            break;
